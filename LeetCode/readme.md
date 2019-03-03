@@ -4,6 +4,7 @@
 2. [131#Palindrome Partitioning](https://github.com/LDouble/sikill-tree/blob/master/LeetCode/131.%20Palindrome%20Partitioning.md)
 3. [969#Pancake Sorting](https://github.com/LDouble/skill-tree/blob/master/LeetCode/969.%20Pancake%20Sorting.md)
 4. [442#Find All Duplicates in an Array](https://github.com/LDouble/skill-tree/blob/master/LeetCode/442.%20Find%20All%20Duplicates%20in%20an%20Array.md)
+5. [406#Queue Reconstruction by Height](https://github.com/LDouble/skill-tree/blob/master/LeetCode/406.%20Queue%20Reconstruction%20by%20Height.md)
 
 > 2019.3.2
 
