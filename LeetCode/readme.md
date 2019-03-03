@@ -1,6 +1,7 @@
 # LeetCode刷题记录
 > 2019.3.3
 1. [537#Complex Number Multiplication](https://github.com/LDouble/sikill-tree/tree/master/LeetCode)
+2. [131#Palindrome Partitioning](https://github.com/LDouble/sikill-tree/blob/master/LeetCode/131.%20Palindrome%20Partitioning.md)
 > 2019.3.2
 
 1. [241#Different Ways to Add Parentheses(为运算表达式设计优先级)
