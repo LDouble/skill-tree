@@ -1,4 +1,6 @@
 # LeetCode刷题记录
+> 2019.3.4
+1. [64#最小路径和](https://github.com/LDouble/skill-tree/blob/master/LeetCode/64.%20Minimum%20Path%20Sum.md)
 > 2019.3.3
 1. [537#Complex Number Multiplication](https://github.com/LDouble/sikill-tree/tree/master/LeetCode)
 2. [131#Palindrome Partitioning](https://github.com/LDouble/sikill-tree/blob/master/LeetCode/131.%20Palindrome%20Partitioning.md)
