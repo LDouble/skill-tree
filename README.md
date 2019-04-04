@@ -1,2 +1,4 @@
 # sikill-tree
-备战秋招
+> 记录学习过程的一些笔记和思考
+
+[LeetCode刷题笔记](https://ldouble.github.io/skill-tree/LeetCode)
